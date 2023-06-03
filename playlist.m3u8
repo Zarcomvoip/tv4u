@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="7",USArmenia
+#EXTGRP:мои
+http://livestream.usatv.com:80/hls/master-iUSATVLIVENET.m3u8
+
